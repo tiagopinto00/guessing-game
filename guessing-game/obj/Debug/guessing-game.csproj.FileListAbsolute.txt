@@ -1,0 +1,8 @@
+E:\Programming\C#\c#-curso-projects\guessing-game\guessing-game\bin\Debug\guessing-game.exe.config
+E:\Programming\C#\c#-curso-projects\guessing-game\guessing-game\bin\Debug\guessing-game.exe
+E:\Programming\C#\c#-curso-projects\guessing-game\guessing-game\bin\Debug\guessing-game.pdb
+E:\Programming\C#\c#-curso-projects\guessing-game\guessing-game\obj\Debug\guessing-game.csproj.AssemblyReference.cache
+E:\Programming\C#\c#-curso-projects\guessing-game\guessing-game\obj\Debug\guessing-game.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\c#-curso-projects\guessing-game\guessing-game\obj\Debug\guessing-game.csproj.CoreCompileInputs.cache
+E:\Programming\C#\c#-curso-projects\guessing-game\guessing-game\obj\Debug\guessing-game.exe
+E:\Programming\C#\c#-curso-projects\guessing-game\guessing-game\obj\Debug\guessing-game.pdb
